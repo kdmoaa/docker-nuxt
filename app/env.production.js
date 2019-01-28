@@ -1,0 +1,3 @@
+module.exports = {
+  envVar: 'production'
+}
