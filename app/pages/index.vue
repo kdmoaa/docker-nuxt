@@ -33,7 +33,7 @@ export default {
   },
   data() {
     return {
-      env: process.env.env
+      env: process.env.envProp
     }
   }
 }
