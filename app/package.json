@@ -2,7 +2,7 @@
   "name": "nuxt-docker",
   "version": "1.0.0",
   "description": "My ultimate Nuxt.js project",
-  "author": "shu",
+  "author": "kdmoaa",
   "private": true,
   "scripts": {
     "dev": "nuxt",
